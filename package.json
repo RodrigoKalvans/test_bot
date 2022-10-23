@@ -1,0 +1,25 @@
+{
+  "name": "test_bot",
+  "version": "1.0.0",
+  "description": "Discord bot meant for feature testing",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ./index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RodrigoKalvans/test_bot.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RodrigoKalvans/test_bot/issues"
+  },
+  "homepage": "https://github.com/RodrigoKalvans/test_bot#readme",
+  "dependencies": {
+    "discord.js": "^14.6.0",
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2"
+  }
+}
