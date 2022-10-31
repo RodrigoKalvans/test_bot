@@ -1,2 +1,3 @@
 # test_bot
-Discord bot meant for testing 
+
+Messing around with discord.js
